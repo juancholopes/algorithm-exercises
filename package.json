@@ -1,0 +1,20 @@
+{
+  "name": "exercises-algorithms",
+  "version": "1.0.0",
+  "description": "A continuación se realizan algunos ejercicios prácticos de algoritmia desarrollados en JavaScript como parte de la actividad **GA2-220501096-AA3-EV01** del programa técnico en programación de aplicaciones y servicios para la nube del Servicio Nacional de Aprendizaje (SENA)",
+  "main": "algoritmo-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanchopi37/algorithm-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanchopi37/algorithm-exercises/issues"
+  },
+  "homepage": "https://github.com/juanchopi37/algorithm-exercises#readme"
+}
