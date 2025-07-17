@@ -12,7 +12,7 @@ A continuación se realizan algunos ejercicios prácticos de algoritmia desarrol
 
 - [x] Codifique en JavaScript un algoritmo que presenta en pantalla todas las potencias enteras de 2 que sean menores o iguales que 100 (usar ciclos). Realizar la traza para las primeras cinco iteraciones.
 
-- [ ] Codifique en JavaScript un algoritmo que sume los números pares comprendidos entre 50 y 200, inclusive.
+- [x] Codifique en JavaScript un algoritmo que sume los números pares comprendidos entre 50 y 200, inclusive.
 
 - [ ] Una temperatura Celsius (centígrados) puede ser convertida a una temperatura equivalente Fahrenheit de acuerdo con la siguiente fórmula: F=(9/5)C + 32. Codifique en JavaScript un algoritmo que lea la temperatura en grados Celsius y la escriba en Fahrenheit.
 
