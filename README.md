@@ -8,9 +8,9 @@ A continuación se realizan algunos ejercicios prácticos de algoritmia desarrol
 
 - [x] Codifique en JavaScript un algoritmo que tome tres números enteros y decida si uno de ellos coincide con la suma de los otros dos.
 
-- [ ] Codifique en JavaScript un algoritmo que imprima y sume la serie de números múltiplos de 3 hasta 100, es decir, 3, 6, 9, 12, ... 99 (usar ciclos). Realizar la traza para las primeras 5 iteraciones.
+- [x] Codifique en JavaScript un algoritmo que imprima y sume la serie de números múltiplos de 3 hasta 100, es decir, 3, 6, 9, 12, ... 99 (usar ciclos). Realizar la traza para las primeras 5 iteraciones.
 
-- [ ] Codifique en JavaScript un algoritmo que presenta en pantalla todas las potencias enteras de 2 que sean menores o iguales que 100 (usar ciclos). Realizar la traza para las primeras cinco iteraciones.
+- [x] Codifique en JavaScript un algoritmo que presenta en pantalla todas las potencias enteras de 2 que sean menores o iguales que 100 (usar ciclos). Realizar la traza para las primeras cinco iteraciones.
 
 - [ ] Codifique en JavaScript un algoritmo que sume los números pares comprendidos entre 50 y 200, inclusive.
 
