@@ -4,9 +4,9 @@ A continuación se realizan algunos ejercicios prácticos de algoritmia desarrol
 
 ## Lista de algoritmos a desarrollar usando JavaScript
 
-- [ ] Codifique en JavaScript un algoritmo que tome tres números y si el primero es positivo calcule el producto de los otros dos, y en otro caso calcule la suma y muestre el resultado en la pantalla.
+- [x] Codifique en JavaScript un algoritmo que tome tres números y si el primero es positivo calcule el producto de los otros dos, y en otro caso calcule la suma y muestre el resultado en la pantalla.
 
-- [ ] Codifique en JavaScript un algoritmo que tome tres números enteros y decida si uno de ellos coincide con la suma de los otros dos.
+- [x] Codifique en JavaScript un algoritmo que tome tres números enteros y decida si uno de ellos coincide con la suma de los otros dos.
 
 - [ ] Codifique en JavaScript un algoritmo que imprima y sume la serie de números múltiplos de 3 hasta 100, es decir, 3, 6, 9, 12, ... 99 (usar ciclos). Realizar la traza para las primeras 5 iteraciones.
 
